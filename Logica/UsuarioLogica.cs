@@ -8,7 +8,8 @@ namespace Logica
 {
     public class UsuarioLogica
     {
-       
+       public string nombre;
+        public UsuarioLogica(){};
 
     }
 }
